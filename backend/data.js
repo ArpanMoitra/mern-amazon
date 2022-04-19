@@ -1,7 +1,7 @@
 const data = {
   products: [
     {
-      _id: '1',
+      // _id: '1',
       name: 'Louis Philippe Slim Shirt',
       slug: 'lp-slim-shirt',
       category: 'Shirts',
@@ -14,7 +14,7 @@ const data = {
       description: 'High Quality Linen Shirt.',
     },
     {
-      _id: '2',
+      // _id: '2',
       name: 'Peter England Slim Shirt',
       slug: 'pe-slim-shirt',
       category: 'Shirts',
@@ -27,7 +27,7 @@ const data = {
       description: 'High Quality Cotton Shirt.',
     },
     {
-      _id: '3',
+      // _id: '3',
       name: 'Jack N Jones trousers',
       slug: 'jj-trouser',
       category: 'Trouser',
@@ -40,7 +40,7 @@ const data = {
       description: 'High Quality Chinos.',
     },
     {
-      _id: '4',
+      // _id: '4',
       name: 'Louis Philippe Trousers',
       slug: 'lp-trouser',
       category: 'Trouser',
