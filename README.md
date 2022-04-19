@@ -1,4 +1,4 @@
-#MERN AMAZON
+12.#MERN AMAZON
 
 1. Create React App
 2. Create Git Repository
@@ -49,3 +49,8 @@
     2. use spinner component
     3. craete message component
     4. create utils.js to define getError fuction
+12. Create React Context For Add Item To Cart
+    1. Create React Context
+    2. define reducer
+    3. create store provider
+    4. implement add to cart button click handler
