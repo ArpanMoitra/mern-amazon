@@ -18,7 +18,7 @@ const data = {
       category: 'Shirts',
       image: '/images/p2.jpg',
       price: 90,
-      countInStock: 10,
+      countInStock: 0,
       brand: 'Peter England',
       rating: 4.3,
       numReviews: 17,
